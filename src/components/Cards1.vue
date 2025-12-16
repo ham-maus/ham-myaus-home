@@ -1,0 +1,19 @@
+<template>
+  <v-row>
+    <v-col>
+      <v-card>
+        <v-card-title>主な活動</v-card-title>
+
+        <v-card-subtitle>何をしているのか</v-card-subtitle>
+        <v-card-text>主にwebを作るということを軸として様々な言語を学習していきたいです"</v-card-text>
+      </v-card>
+    </v-col>
+    <v-col>
+      <v-card>
+        <v-card-title>最終目標</v-card-title>
+        <v-card-subtitle>目指すこと</v-card-subtitle>
+        <v-card-text>様々な言語を学習して自分のosを作りそのosで自分の作ったゲームをプレイすることその活動を広めていくこと"</v-card-text>
+      </v-card>
+    </v-col>
+  </v-row>
+</template>
